@@ -1,3 +1,5 @@
+
+QUESTION 5
  Python code 
 
 from abc import ABC, abstractmethod
@@ -63,6 +65,8 @@ class Car(Vehicle):
 
     def describe(self):
         return f"{self.brand} car with {self.doors} doors, moving at {self.speed} km/h"
+
+QUESTION 6
 
 
 class Bike(Vehicle):
